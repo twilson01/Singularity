@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6c0c3713a5730421f86e0bc4034b441b
+timeCreated: 1499769055
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burger Doodle Two NF
+  fontNames:
+  - Burger Doodle Two NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

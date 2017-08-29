@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da75c6cb6add94e3faae0a4809406297
+timeCreated: 1499769025
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BeyondControl
+  fontNames:
+  - BeyondControl
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

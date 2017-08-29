@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ffaf99812c8441feac234315636f6f8
+timeCreated: 1499769021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Funky Rundkopf Two NF
+  fontNames:
+  - Funky Rundkopf Two NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
